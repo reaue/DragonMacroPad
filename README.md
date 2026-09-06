@@ -64,3 +64,12 @@ Here, keys binding (in order, starting from the top right) :
 | M3 M3x5x4 Heatset inserts | 4 |
 | Case (2 printed parts )| 1 |
 | EC11 Knob ( printed part )| 1 |
+
+# Possible improvement
+
+Take switches which are Led SMD compatible (such as Gateron SMD Yellow), because Cherry MX Switches do not let pass so much light.
+
+# Credits
+
+I used [QMK](https://qmk.fm/) and [Kicad](https://www.kicad.org/).
+Moreover, I used one 3D model from [Ziemniaczenka](https://www.printables.com/@Ziemniaczenka)
