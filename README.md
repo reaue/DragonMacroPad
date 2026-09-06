@@ -24,11 +24,11 @@ The full case and the pcb are connected by four M3x13mm screws and M3x5mx4mm hea
 
 ![schematic](<schematic.png>)
 
-### pcb
+### PCB
 
 ![pcb](<pcb.png>)
 
-### the 3D model
+### The 3D model
 
 ![PCB 3D](<pcb 3D.png>)
 
