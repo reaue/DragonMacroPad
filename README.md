@@ -50,6 +50,8 @@ Here, keys binding (in order, starting from the top right) :
 
 # BOM
 
+The real one is in the repo.
+
 | Component | Quantity |
 |---|---:|
 | XIAO RP2040 | 1 |
