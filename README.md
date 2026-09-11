@@ -6,31 +6,31 @@ A macro pad with 8 switches, one rotary encoder, one OLED display and of course 
 
 The full case and the pcb are connected by four M3x13mm screws and M3x5mx4mm heatset inserts, the inserts come under the `Top_case` and your screw the all macro pad by the bottom of the `Bottom_case`, like a sandwich with the pcb in the middle.
 
-![Case](<Case.png>)
+![Case](<assets/Case.png>)
 
 # Case parts
 
 ### Top_case
 
-![Top_case](<Top_case.png>)
+![Top_case](<assets/Top_case.png>)
 
 ### Bottom_case
 
-![Bottom_case](<Bottom_case.png>)
+![Bottom_case](<assets/Bottom_case.png>)
 
 # PCB
 
 ### Schematic
 
-![schematic](<schematic.png>)
+![schematic](<assets/schematic.png>)
 
 ### PCB
 
-![pcb](<pcb.png>)
+![pcb](<assets/pcb.png>)
 
 ### The 3D model
 
-![PCB 3D](<pcb 3D.png>)
+![PCB 3D](<assets/pcb 3D.png>)
 
 # Firmware
 
